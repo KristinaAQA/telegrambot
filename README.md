@@ -44,4 +44,4 @@ python3 card_bot.py
 
 ## Автор
 
-Кристина Антонова ([@antonova_kris](https://t.me/antonova_kris)
+Кристина Антонова ([@antonova_kris](https://t.me/antonova_kris))
